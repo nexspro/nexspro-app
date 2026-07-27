@@ -10,7 +10,7 @@ gem "propshaft", "~> 1.3"
 gem "tailwindcss-rails", "~> 4.6"
 
 gem "solid_cache", "~> 1.0"
-gem "solid_queue", "~> 1.4"
+gem "solid_queue", "~> 1.5"
 gem "solid_cable", "~> 4.0"
 
 gem "bootsnap", "~> 1.24", require: false
