@@ -10,10 +10,10 @@ gem "propshaft", "~> 1.3"
 gem "tailwindcss-rails", "~> 4.6"
 
 gem "solid_cache", "~> 1.0"
-gem "solid_queue", "~> 1.4"
+gem "solid_queue", "~> 1.6"
 gem "solid_cable", "~> 4.0"
 
-gem "bootsnap", "~> 1.24", require: false
+gem "bootsnap", "~> 1.25", require: false
 
 group :development, :test do
   gem "debug", "~> 1.11", platforms: %i[ mri windows ], require: "debug/prelude"
